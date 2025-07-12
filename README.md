@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleks2705&label=Profile%20views&color=0e75b6&style=flat" alt="aleks2705" /> </p>
 
-- 🔭 I’m currently working on **MAJAX**
+- 🔭 I’m currently working on **HemaHouse**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently improving my skills in **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aleks2705](https://github.com/aleks2705)
 
-- 📫 How to reach me **aleksei.najmitdinov@epfedu.fr**
+- 📫 How to reach me **aleksei.najmitdinov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
